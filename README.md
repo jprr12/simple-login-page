@@ -1,2 +1,2 @@
-# html-css-js
+# simple login page
 web design mini projects
